@@ -1,0 +1,10 @@
+{
+    "name": "CultoEster",
+    "short_name": "CultoEster",
+    "theme_color": "#ba29c3",
+    "background_color": "#ba29c3",
+    "display": "standalone",
+    "scope": "/index.html",
+    "start_url": "/"
+  }
+  
